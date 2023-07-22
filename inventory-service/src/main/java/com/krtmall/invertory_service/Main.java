@@ -2,6 +2,7 @@ package com.krtmall.invertory_service;
 
 import com.krtmall.invertory_service.models.Inventory;
 import com.krtmall.invertory_service.repository.InventoryRepository;
+import com.netflix.discovery.EurekaClient;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

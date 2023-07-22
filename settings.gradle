@@ -1,0 +1,6 @@
+
+includeBuild('./discovery-service')
+includeBuild('./inventory-service')
+includeBuild('./order-service')
+includeBuild('./products-service')
+includeBuild("./cdn-service")
